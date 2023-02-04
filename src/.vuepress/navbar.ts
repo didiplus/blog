@@ -72,7 +72,19 @@ export default navbar([
           {
             text: "vue",
             icon: "creative",
-            link: "frontend-vue/vue-v-for"
+            children: [
+              {
+                text: "vue2",
+                icon: "creative",
+                link: "frontend-vue2/vue-axios"
+              },
+              {
+                text: "vue3",
+                icon: "creative",
+                link: "frontend-vue3/01.vue-echarts"
+              }
+            ]
+            
           }         
         ]
       },

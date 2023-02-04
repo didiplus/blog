@@ -1,5 +1,5 @@
 ---
-title: 前端-Vue
+title: 前端-Vue2
 index: false
 dir:
   order: 14
