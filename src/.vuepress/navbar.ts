@@ -88,4 +88,22 @@ export default navbar([
           }         
         ]
       },
+      {
+        text: "网络知识",
+        icon: "creative",
+        prefix: "/network/",
+        children:[
+          {
+            text: "理论篇",
+            icon: "creative",
+            children:[
+              {
+                text: "基础篇",
+                icon: "creative",
+                link: "1_base/tcp_ip_model"
+              }
+            ]
+          }
+        ]
+      }
 ])

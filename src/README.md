@@ -34,10 +34,10 @@ features:
     details: vue,vuex,pinia,vite
     link: /frontend/vite/01.vite
 
-  # - title: Layout enhancement
-  #   icon: layout
-  #   details: Adding breadcrumb, footer, improved navbar, improved page nav and etc.
-  #   link: https://theme-hope.vuejs.press/guide/layout/
+  - title: 图解网络
+    icon: layout
+    details: 通过图形方式，使用简单明了的语言阐述网络的相关知识
+    link: /network/
 
   # - title: Pageviews and comments
   #   icon: comment
