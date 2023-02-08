@@ -196,4 +196,4 @@ selector:
 
 #### 引用一组节点
 
-可以通过标签选择器将 Pod 调度到指定的节点上，请参考 [将容器组调度到指定的节点](/learning/k8s-intermediate/config/assign-pod-node.html)
+可以通过标签选择器将 Pod 调度到指定的节点上，请参考 [将容器组调度到指定的节点]()

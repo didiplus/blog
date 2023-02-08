@@ -22,25 +22,7 @@ Kuboard-Spray 是一款可以在图形界面引导下完成 Kubernetes 高可用
 
 
 
-<b-button v-b-toggle.collapse-1 variant="outline-info" size="sm">历史安装文档</b-button>
-<b-collapse id="collapse-1" class="mt-2">
-<b-card>
-  
-**本站提供的历史 Kubernetes 安装文档，请参考：**
 
-历史安装文档基于 kubeadm 命令行方式安装集群。
-
- * [安装 Kubernetes v1.22.x 单Master节点](/install/history-k8s/install-k8s-1.22.x.html)
- * [安装 Kubernetes v1.21.x 单Master节点](/install/history-k8s/install-k8s-1.21.x.html)
- * [安装 Kubernetes v1.20.x 单Master节点](/install/history-k8s/install-k8s-1.20.x.html)
- * [安装 Kubernetes v1.19.x 单Master节点](/install/history-k8s/install-k8s-1.19.x.html)
- * [安装 Kubernetes v1.18.x 单Master节点](/install/history-k8s/install-k8s-1.18.x.html)
- * [安装 Kubernetes v1.17.x 单Master节点](/install/history-k8s/install-k8s-1.17.x.html)
- * [安装 Kubernetes v1.16.3 单Master节点](/install/history-k8s/install-k8s-1.16.3.html)
- * [安装 Kubernetes v1.15.4 单Master节点](/install/history-k8s/install-k8s-1.15.4.html)
-
-</b-card>
-</b-collapse>
 
 
 

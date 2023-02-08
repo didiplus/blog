@@ -55,7 +55,7 @@ Resource Limits
 ```
 
 ::: tip
-该结果中展示了 [Resource Quota](/learning/k8s-advanced/policy/rq.html) 和 [resource limit range](/learning/k8s-advanced/policy/lr.html)
+该结果中展示了 [Resource Quota]() 和 [resource limit range]()
 :::
 
 * Resource quota 汇总了名称空间中使用的资源总量，并指定了集群管理员定义该名称空间最多可以使用的资源量
@@ -156,7 +156,7 @@ production    Active    23s       name=production
 
 Kubernetes名称空间为集群中的 Pod、Service、Deployment 提供了一个作用域。可以限定使用某个名称空间的用户不能看到另外一个名称空间中的内容。我们可以在 `development` 名称空间中创建一个简单的 Deployment 和 Pod 来演示这个特性。
 
-* 首先，执行命令以检查当前的 [kubectl 上下文](/install/config-kubectl.html#切换当前访问的集群)
+* 首先，执行命令以检查当前的 [kubectl 上下文]()
   ``` sh
   kubectl config view
   ```
