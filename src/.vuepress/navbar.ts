@@ -105,5 +105,17 @@ export default navbar([
             ]
           }
         ]
+      },
+      {
+        text: "云原生",
+        icon: "creative",
+        prefix: "/cloud/",
+        children:[
+          {
+            text: "kuboard K8S教程",
+            icon: "creative",
+            link: "kuboard-k8s/k8s-bg/what-is-k8s"
+          }
+        ]
       }
 ])

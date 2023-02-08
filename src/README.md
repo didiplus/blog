@@ -37,12 +37,12 @@ features:
   - title: 图解网络
     icon: layout
     details: 通过图形方式，使用简单明了的语言阐述网络的相关知识
-    link: /network/
+    link: /network/theory
 
-  # - title: Pageviews and comments
-  #   icon: comment
-  #   details: Start pageview statistics and comment support with Waline
-  #   link: https://theme-hope.vuejs.press/guide/feature/comment.html
+  - title: 云原生
+    icon: comment
+    details: K8S教程,K8S搭建,kuberntes搭建
+    link: /cloud/k8s
 
   # - title: Article information
   #   icon: info
