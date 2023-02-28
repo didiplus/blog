@@ -1,1 +1,0 @@
-import{ab as a,G as t,H as n,E as e,S as s}from"./framework-b31a425c.js";const c={},o=e("h1",{id:"java",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java","aria-hidden":"true"},"#"),s(" Java")],-1),r=e("p",null,"TODO",-1),_=[o,r];function d(i,l){return t(),n("div",null,_)}const f=a(c,[["render",d],["__file","index.html.vue"]]);export{f as default};
