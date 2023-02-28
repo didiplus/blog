@@ -4,5 +4,6 @@ export default sidebar({
     "/frontend/": "structure",
     "/java/": "structure",
     "/network/": "structure",
-    "/cloud/": "structure"
+    "/cloud/": "structure",
+    "/db/": "structure"
 })

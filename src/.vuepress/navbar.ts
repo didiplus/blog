@@ -98,9 +98,27 @@ export default navbar([
             icon: "creative",
             children:[
               {
-                text: "基础篇",
+                text: "图解网络",
                 icon: "creative",
                 link: "1_base/tcp_ip_model"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        text: "数据库",
+        icon: "creative",
+        prefix: "/db/",
+        children: [
+          {
+            text : "mysql",
+            icon : "creative",
+            children: [
+              {
+                text : "图解MYSQL",
+                icon : "creative",
+                link : "mysql"
               }
             ]
           }
@@ -115,6 +133,11 @@ export default navbar([
             text: "kuboard K8S教程",
             icon: "creative",
             link: "kuboard-k8s/k8s-bg/what-is-k8s"
+          },
+          {
+            text: "华为云原生课程",
+            icon: "creative",
+            link: "huawei/CloudNative"
           }
         ]
       }

@@ -3,7 +3,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 // import { enSidebar, zhSidebar } from "./sidebar/index.js";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+
 
 export default hopeTheme({
   hostname: "",
@@ -93,7 +93,7 @@ export default hopeTheme({
       gfm: true,
       imgLazyload: true,
       imgSize: true,
-      include: true,
+      include:true,
       katex: true,
       mark: true,
       mermaid: true,
