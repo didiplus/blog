@@ -1,0 +1,7 @@
+node_modules/
+
+docs/.vitepress/cache/
+
+pnpm-lock.yaml
+.npmrc
+*.log

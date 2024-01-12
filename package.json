@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --port 8080",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite-plugin-vitepress-auto-sidebar": "^1.6.2",
+    "vitepress": "1.0.0-rc.36",
+    "vue": "^3.2.47",
+    "@femm/prettier": "^1.0.1",
+    "@mdit-vue/shared": "^0.12.0",
+    "sass": "^1.58.3"
+  }
+}
