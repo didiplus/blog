@@ -24,7 +24,7 @@
 	- [MySQL 可重复读隔离级别，完全解决幻读了吗？](./transaction/phantom.md) 	
 	
 - **锁篇** :point_down:
-	- [MySQL 有哪些锁？](./lock._lock.md) 	
+	- [MySQL 有哪些锁？](./lock/mysql_lock.md) 	
 	- [MySQL 是怎么加锁的？](./lock/how_to_lock.md) 	
 	- [update 没加索引会锁全表?](./lock/update_index.md) 	
 	- [MySQL 记录锁+间隙锁可以防止删除操作而导致的幻读吗？](./lock/lock_phantom.md) 	
